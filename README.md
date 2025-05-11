@@ -32,7 +32,7 @@
         <p2>Right now i am in the early stages of creating a indie Run and Gun medieval Dungeon crawler. More info will be added to this section when development progresses</p2>
         <p align="center">
         <h2 align="center">Source: trust me bro</h2>
-        </p>
+    </p>
             
 
 
