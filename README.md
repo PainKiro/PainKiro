@@ -13,16 +13,17 @@
 
 <p align="center">
     <h1>About Me</h1>
-    <div style="display: flex; justify-content: center; gap: 20px;">
         <p1>Hey, I'm Kyle, and I've just graduated in computer game development! I've always loved computers, whether it's through coding, music, or building them. Lately, I've been diving into reinforcement learning, programming agents in Pygame and OpenGL environments. I'm also experienced with Unity Engine and love creating games. Whether it's developing, designing, or just experimenting with new concepts, I'm always excited to learn and create.</p1>
-    </div>
     <p align="center">
         <h1>My Projects</h1>
         <p2>Below you will find all of the projects i have worked on!</p2>
         <h3>RL Agent and Pygame Gym environment:</h3>
         <hr>
             <p3>This Project is by far the most interesting piece of work i have ever created, using a custom made instance of openGL an aim training environment similair to the task "Tile Frenzy" in the popular aim trainer Kovaaks was created and then i used this to create a Gymnasium environment to train a PPO Model from the Stable_Baselines3 Library! The source code is available to download if you want to tinker with it urself and all trained models are stored in the files!</p3>
-            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHEycW15Znhjbnlvb2dubnk3ZXFyaTUxZzY4NHc5dDFicmhvbTVkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RucuakzK9AL8uY3Xwx/giphy.gif" style="width: 10vw; max-width: 100px;">
+            <p align="center">
+                <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHEycW15Znhjbnlvb2dubnk3ZXFyaTUxZzY4NHc5dDFicmhvbTVkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RucuakzK9AL8uY3Xwx/giphy.gif" style="width: 30vw; max-width: 50px;">
+                <img src="https://media1.giphy.com/media/98PF0pzERtroLNUDso/giphy.gif?cid=9b38fe91x188gwaejggjy6qxa1idb4wkh9or40e2zfka3rn3&ep=v1_gifs_username&rid=giphy.gif" style="width: 20vw; max-width: 200px;">
+            </p>
             <h3>PyGame Solar System:</h3>
         <hr>
             <p3>Simple Solar System Simulation in PyGame</p3>
