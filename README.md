@@ -22,6 +22,7 @@
         <h3>RL Agent and Pygame Gym environment:</h3>
         <hr>
             <p3>This Project is by far the most interesting piece of work i have ever created, using a custom made instance of openGL an aim training environment similair to the task "Tile Frenzy" in the popular aim trainer Kovaaks was created and then i used this to create a Gymnasium environment to train a PPO Model from the Stable_Baselines3 Library! The source code is available to download if you want to tinker with it urself and all trained models are stored in the files!</p3>
+            <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" style="width: 10vw; max-width: 100px;">
             <h3>PyGame Solar System:</h3>
         <hr>
             <p3>Simple Solar System Simulation in PyGame</p3>
