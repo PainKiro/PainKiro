@@ -27,9 +27,11 @@
             <h3>PyGame Solar System:</h3>
         <hr>
             <p3>Simple Solar System Simulation in PyGame</p3>
+            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpjd2RrdjdoN2lhMjBiNmpmdDBqcDF0ZmNtcW5mdTFpcjVkZTU4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZO5nb5rOJN6MeCL7Qh/giphy.gif" style="width: 50vw; max-width: 200px;">
             <h3>Employee Database using Tkinter and SQLite:</h3>
         <hr>
             <p3>Just a little GUI with SQLite Intergration.</p3>
+            <img src="https://imghost.net/ib/BhhHxExWqdyHYrQ_1747052699.png" style="width: 50vw; max-width: 200px;">
         <h1>Current Projects</h1>
         <p2>Right now i am in the early stages of creating a indie Run and Gun medieval Dungeon crawler. More info will be added to this section when development progresses</p2>
         <p align="center">
