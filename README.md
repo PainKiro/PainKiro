@@ -4,10 +4,10 @@
 <hr>
 <p align="center">
         <a href="https://en-gb.facebook.com/people/Kyle-Moss/pfbid0qhjXkLzWAXJrGoXaqKmLpWRCuBPqkDJZQEMGypmTyV88d4F53GiCGcUCw1VdvZtBl/">
-            <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" style="width: 10vw; max-width: 100px;">
+            <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" style="width: 5vw; max-width:  20px;">
         </a>
         <a href="https://uk.linkedin.com/in/kyle-moss-ba242b2a2?trk=people-guest_people_search-card">
-            <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" style="width: 10vw; max-width: 100px;">
+            <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" style="width: 5vw; max-width: 20px;">
         </a>  
 </p>
 
